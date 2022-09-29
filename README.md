@@ -1,13 +1,13 @@
 # Document Structure Continued
 
-## Learning Goals
+# Learning Goals
 
 - Recognize basic HTML document structure
 - Recognize HTML comments
 - Describe the `head` section and its contents
 - Create an HTML document
 
-## Introduction
+# Introduction
 
 Every HTML document has a specific set of required tags. Because these are
 required _every_ time we create a web page, it is valuable to gain a more
@@ -18,13 +18,13 @@ We will be both reviewing setting up well-formed HTML documents and expanding a
 bit on the `DOCTYPE`, `html` and `head` tags, as well as introducing how to add
 comments within our HTML code.
 
-## Getting Started
+# Getting Started
 
 If you haven't already, fork and clone this lesson into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code.
 
-## Recognize Basic HTML Document Structure
+# Recognize Basic HTML Document Structure
 
 Let's start by adding the bare essentials of an HTML document to the provided
 `index.html` file:
